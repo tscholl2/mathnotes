@@ -1,3 +1,11 @@
+#Linear Algebra
+
+###Google page ranking
+
+Suppose you have a very large stochastic matrix $M$. So large you can't decompose it, but you can multiply it against a vector easily. There is a theorem that says there is a one dimensional eigenspace with eigenvalue $1$ and the rest have eigenvalues $|\lambda_i|<1$. How do we find an eigenvector with eigenvalue $1$?
+
+Idea: Guess! Pick a vector $v$ and write then consider $M^nv$. This can be written in a basis of eigenvectors and it will look like $\sum \lambda_i^nv_i$. Note that $\lambda_i^n \to 0$ for all except the one with norm $1$. So after a while this will be very close to our eigenvector with norm $1$.
+
 #Geometry
 
 ###n-Balls
@@ -181,4 +189,3 @@ TODO: examples?
 * Million dollar prize for hypothesis? [link](http://en.wikipedia.org/wiki/Riemann_hypothesis)
 
 * Universal, similar to finite strings in pi in a way, but bigger. [link](http://en.wikipedia.org/wiki/Zeta_function_universality)
-
