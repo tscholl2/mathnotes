@@ -158,6 +158,10 @@ TODO: examples?
 
 #Number Theory
 
+###Probability
+
+* Probability that an integer $n$ is square free is $\frac{6}{\pi^2}$.
+
 ###Golden Ratio
 
 * [Conway Solider](http://en.wikipedia.org/wiki/Conway's_Soldiers)
