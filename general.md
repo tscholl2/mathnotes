@@ -146,7 +146,7 @@ TODO: examples?
 
 ###Euler Characteristic
 
-* v-e+f = 2 <-- for planar graphs
+* $v-e+f = 2$ <-- for planar graphs
 
 * works for polyhedra
 
@@ -168,7 +168,7 @@ TODO: examples?
 
 ###Probability
 
-* Probability that an integer $n$ is square free is $\frac{6}{\pi^2}$.
+* Probability that an integer $n$ is square free is $\frac{6}{\pi^2}$ (see [mathworld](http://mathworld.wolfram.com/Squarefree.html)).
 
 ###Golden Ratio
 
