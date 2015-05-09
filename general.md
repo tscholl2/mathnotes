@@ -1,6 +1,14 @@
 #Algebra
 
-* Field automorphisms. $\mathbb{Q}$ is algebraically rigid, no automorphisms. Any algebraic extension has lots of automorphisms. Add some trascendental and still automorphisms. But, $\mathbb{R}$ has NO non-trivial field automorphisms. However $\mathbb{C}$ does.
+* Field automorphisms. $\mathbb{Q}$ is algebraically rigid, no automorphisms. Any algebraic extension has lots of automorphisms. Add some trascendental and still automorphisms. But, $\mathbb{R}$ has NO non-trivial field automorphisms. However $\mathbb{C}$ does. Note that $\mathbb{R}$ is a mixture of algebraic and transcendental extensions of $\mathbb{Q}$.
+
+#Analysis
+
+* Cantor sets. Crazy.
+
+#Complex Dynamics
+
+* Fractals, iterations, newtons method, and cool pictures.
 
 #Linear Algebra
 
