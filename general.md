@@ -1,3 +1,7 @@
+#Algebra
+
+* Field automorphisms. $\mathbb{Q}$ is algebraically rigid, no automorphisms. Any algebraic extension has lots of automorphisms. Add some trascendental and still automorphisms. But, $\mathbb{R}$ has NO non-trivial field automorphisms. However $\mathbb{C}$ does.
+
 #Linear Algebra
 
 ###Google page ranking
